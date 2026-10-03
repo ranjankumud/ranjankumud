@@ -1,105 +1,98 @@
-# 👋 Hi, I'm Kumud Ranjan
+# Hi, I'm Kumud Ranjan 👋
 
-### 💻 Final-Year Student | Aspiring Software Developer | Tech Enthusiast
+### Final-Year Student · Aspiring Software Developer
 
-I'm a final-year student passionate about **software development, programming, and building real-world projects**. I enjoy turning ideas into practical applications and continuously improving my technical skills through hands-on development.
+I'm a final-year student passionate about **software development, problem solving, and building practical applications**. I enjoy learning new technologies, working on real-world projects, and continuously improving my development skills.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 Final-Year Student
 * 💻 Aspiring Software Developer
-* 🐍 Currently working with **Python**
-* ☕ Exploring **Java & C/C++**
-* 🗄️ Learning and working with **SQL & Databases**
-* 🌐 Interested in **Web Development**
+* 🌱 Currently improving my skills in **Python, Java & SQL**
 * 🤖 Exploring **AI & Machine Learning**
-* 🚀 Building projects and learning something new every day
+* 🌐 Interested in **Web & Software Development**
+* 🚀 Focused on building practical and meaningful projects
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 💻 Languages
+**Languages**
 
-`Python` `Java` `C` `C++` `SQL`
+`Python` · `Java` · `C` · `C++` · `SQL`
 
-### 🌐 Web Technologies
+**Web Technologies**
 
-`HTML` `CSS` `JavaScript`
+`HTML` · `CSS` · `JavaScript`
 
-### 🧰 Tools & Technologies
+**Tools & Platforms**
 
-`Git` `GitHub` `VS Code` `Streamlit`
+`Git` · `GitHub` · `VS Code` · `Streamlit`
 
-### 🤖 Areas of Interest
+**Areas of Interest**
 
-`Software Development` `Data Science` `Machine Learning` `AI`
+`Software Development` · `Data Science` · `Machine Learning` · `AI`
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🚗 Car Price Prediction
 
-Machine Learning project that predicts car prices using historical data and regression techniques.
+Machine learning project for predicting car prices using historical data and ensemble-based regression techniques.
 
-**Tech:** Python • Pandas • Scikit-learn • Random Forest
+**Tech:** Python · Pandas · Scikit-learn · Random Forest
 
 ### 🏥 Hospital Management System
 
-A management system designed to handle hospital-related data and operations through a user-friendly interface.
+A management application designed to organize and manage hospital-related information through a simple interface.
 
-**Tech:** Python • Streamlit • SQL
+**Tech:** Python · Streamlit · SQL
 
-### 👗 Kurti Recommendation System
+### 👗 Product Recommendation System
 
-A recommendation-based application that helps users discover suitable products based on available data.
+A recommendation-based application designed to help users discover suitable products using data-driven techniques.
 
-**Tech:** Python • Streamlit • Machine Learning
-
----
-
-## 📊 GitHub Stats
-
-![Kumud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+**Tech:** Python · Streamlit · Machine Learning
 
 ---
 
-## 🌱 Currently Learning
+## GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165">
+</p>
+
+---
+
+## Current Focus
 
 ```text
-Python          ███████████████████░   90%
-Java            ███████████████░░░░░   75%
-SQL             ████████████████░░░░   80%
-Web Development ██████████████░░░░░░   70%
-Machine Learning████████████░░░░░░░░   65%
+Building Real-World Projects
+Improving Problem-Solving Skills
+Learning AI & Machine Learning
+Strengthening Software Development
+Exploring Open Source
 ```
 
 ---
 
-## 🎯 2026 Goals
+## Connect With Me
 
-* 🚀 Build more real-world projects
-* 📚 Strengthen Data Structures & Algorithms
-* 🤖 Explore AI & Machine Learning
-* 🌐 Improve Full-Stack Development skills
-* 💼 Prepare for Software Development opportunities
-* ⭐ Contribute to Open Source projects
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumud%20Ranjan-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Kumud%20Ranjan-black?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-### 💡 "Code. Learn. Build. Repeat. 🚀"
-
-⭐ If you find my projects interesting, feel free to explore my repositories!
+<p align="center">
+  <i>Building. Learning. Improving. One project at a time.</i>
+</p>
