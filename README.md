@@ -1,131 +1,168 @@
-# Hi 👋, I'm Kumud Ranjan
+<div align="center">
 
-### 💻 Final-Year Student | Aspiring Software Developer | AI & Technology Enthusiast
+# 👋 Hey, I'm **Kumud Ranjan**
 
----
+### `Final-Year Student` • `Aspiring Software Developer` • `Tech Enthusiast`
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+building+real-world+projects;Always+learning+new+technologies;Code+%7C+Build+%7C+Learn+%7C+Repeat+%F0%9F%9A%80" />
 
-* 🎓 Final-Year Student passionate about Software Development
-* 💻 Interested in building practical and real-world applications
-* 🐍 Working with **Python**
-* ☕ Exploring **Java & C/C++**
-* 🗄️ Working with **SQL & Databases**
-* 🤖 Exploring **AI, Data Science & Machine Learning**
-* 🌐 Interested in Web Development
-* 🚀 Always learning, building and improving
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Languages
+```yaml
+Name: Kumud Ranjan
+Role: Final-Year Student
+Focus: Software Development
+Currently Learning: AI & Machine Learning
+Interests:
+  - Software Development
+  - Data Science
+  - Artificial Intelligence
+  - Web Development
+  - Problem Solving
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+I'm passionate about **turning ideas into working applications** and learning through hands-on development. I enjoy experimenting with technologies, building projects, and continuously improving my coding skills.
 
-### 🌐 Web & Development
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+## ⚡ What I Work With
 
-### 🔧 Tools
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+
+### Web & Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,streamlit" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🚗 Car Price Prediction
 
-A machine learning project that predicts car prices using historical data and machine learning techniques.
+Machine Learning project that predicts car prices using historical data and ensemble learning techniques.
 
-**Tech:** Python · Pandas · Scikit-learn · Random Forest
+**Stack:**
+`Python` `Pandas` `Scikit-learn` `Random Forest`
 
----
+</td>
+
+<td width="50%">
 
 ### 🏥 Hospital Management System
 
-A practical management application designed to organize hospital information and simplify day-to-day management.
+A practical application for managing hospital-related information through an easy-to-use interface.
 
-**Tech:** Python · Streamlit · SQL · Excel
+**Stack:**
+`Python` `Streamlit` `SQL` `Excel`
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 👗 Product Recommendation System
 
-A recommendation-based application that helps users discover suitable products using data-driven approaches.
+A recommendation-based application designed to help users discover suitable products using data-driven techniques.
 
-**Tech:** Python · Streamlit · Machine Learning
+**Stack:**
+`Python` `Streamlit` `ML`
 
----
+</td>
+
+<td width="50%">
 
 ### 🚘 Car Rental System
 
-A web-based project for managing customer information and car rental operations with a simple user-friendly interface.
+A management application for handling customer information and rental operations.
 
-**Tech:** Python · HTML · CSS · Database
+**Stack:**
+`Python` `HTML` `CSS` `Database`
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
+
+<div align="center">
+
+`🤖 Artificial Intelligence`
+`🧠 Machine Learning`
+`📊 Data Science`
+`🌐 Web Development`
+`🧩 Data Structures & Algorithms`
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
 
 ```text
-🐍 Advanced Python
-☕ Java & Object-Oriented Programming
-🗄️ SQL & Database Management
-🤖 Machine Learning & AI
-🌐 Web Development
-🔧 Git & GitHub
-🧠 Data Structures & Problem Solving
+✓ Strengthen Programming Fundamentals
+✓ Build Real-World Projects
+→ Master Data Structures & Algorithms
+→ Explore AI & Machine Learning
+→ Contribute to Open Source
+→ Become a Better Software Developer
 ```
 
 ---
 
-## 🎯 2026 Goals
+## 💻 My Developer Mindset
 
-* Build more real-world projects
-* Strengthen Data Structures & Algorithms
-* Explore AI & Machine Learning
-* Improve software development skills
-* Contribute to open-source projects
-* Build a strong developer portfolio
+> **"Don't just learn technology — build something with it."**
+
+I believe the best way to learn programming is by **building, breaking, debugging, and improving**.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
+<div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -135,14 +172,14 @@ A web-based project for managing customer information and car rental operations 
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-  <b>💡 Building ideas into reality, one project at a time.</b>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+### ⭐ Thanks for visiting!
+
+**Building today. Learning every day. Growing continuously. 🚀**
+
+</div>
